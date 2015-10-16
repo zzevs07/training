@@ -1,0 +1,32 @@
+body {
+	
+    }
+header {
+	
+}
+nav {
+	font-size: 50px;
+	width:70px;
+}
+aside {
+	background-color: green;
+	height: 100px;
+	font-size: 15px;
+	width:70px;
+}
+section {
+	background-color: black;
+	height: 300px;
+	float: center;
+	font-size: 45px;
+}
+p {
+	background-color: blue;
+	padding-left:500px;
+	font-size:20px;
+}
+footer {
+	background-color: landscape;
+	text-align:center
+}
+
